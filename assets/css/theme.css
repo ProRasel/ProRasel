@@ -468,7 +468,73 @@ h1.wlc-filltext {
     100% { opacity:1; }
 }
 
+.typed_wrap h2{
+    font-size: 52px;
+}
+.skills_tags{
+    padding: 10px 15px;
+    width: 100%;
+    position: relative;
+    margin-bottom: 20px;
+}
+.skills_tags_pill{
+    font-weight: 200;
+    font-size: 13px;
+    float: left;
+    margin: 10px 5px;
+    padding: 1px 21px;
+    text-align: center;
+    border-radius: 25px;
+    font-family: 'Poppins', sans-serif;
+    transition: background-color .3s, color .3s;
+}
+/*skilss*/
+.t-outline-pill {
+    color: #1dbf73;
+    border: 2px solid #272f31;
+  }
+  
+  .t-outline-pill:hover {
+    color: #ffffff;
+    background-color: #272f31;
+  }
+  
+  .r-outline-pill {
+    color: #1dbf73;
+    border: 2px solid #272f31;
+  }
+  
+  .r-outline-pill:hover {
+    color: #ffffff;
+    background-color: #272f31;
+  }
+  
+  .p-outline-pill {
+    color: #1dbf73;
+    border: 2px solid #272f31;
+  }
+  
+  .p-outline-pill:hover {
+    color: #ffffff;
+    background-color: #272f31;
+  }
+  
+  .o-outline-pill {
+    color: #1dbf73;
+    border: 2px solid #272f31;
+  }
+  
+  .o-outline-pill:hover {
+    color: #ffffff;
+    background-color: #272f31;
+  }
+  
 
+
+  .space-50{
+      height: 20px;
+  }
+  
 /*
 ==========================
 	ABOUT ATRA CSS

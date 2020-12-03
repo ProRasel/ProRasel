@@ -1,6 +1,8 @@
-$(function(){
-	$(".typed").typed({
-		strings: ["Full-Stact Developer.", "Freelancer.", "Instructor."],
+$(function() {
+	$('.typed').typed({
+		// strings: [ 'Software Project Manager.' ],
+		strings: [ 'Software Project Manager.', 'Full Stack Developer.', 'Instructor.' ],
+
 		// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 		stringsElement: null,
 		// typing speed
@@ -17,7 +19,7 @@ $(function(){
 		// show cursor
 		showCursor: false,
 		// character for cursor
-		cursorChar: "|",
+		cursorChar: '|',
 		// attribute to type (null == text)
 		attr: null,
 		// either html or text
