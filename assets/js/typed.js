@@ -1,7 +1,8 @@
 $(function() {
 	$('.typed').typed({
 		// strings: [ 'Software Project Manager.' ],
-		strings: [ 'Software Project Manager.', 'Full Stack Developer.', 'Instructor.' ],
+		strings: [ 'Software Product Manager.' ],
+		// strings: [ 'Software Product Manager.', 'Full Stack Developer.', 'Instructor.' ],
 
 		// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 		stringsElement: null,
