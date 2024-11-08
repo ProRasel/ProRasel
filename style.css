@@ -502,10 +502,8 @@ body.is-instant:after {
 .image.style1 .frame {
     width: 9rem;
     border-radius: 100%;
-    border-color: #C685D6;
-    border-style: solid;
     border-width: 10px;
-    box-shadow: 0rem 0rem 0rem 0.75rem #3E4352;
+    box-shadow: 0rem 0rem 0rem 0.75rem #4b5063;
     transition: none;
 }
 
