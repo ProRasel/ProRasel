@@ -967,10 +967,3 @@ h1.style4 span.p:nth-child(n + 2), h2.style4 span.p:nth-child(n + 2), h3.style4 
 margin-right: 5px; 
 margin-bottom: 0;
 }
-.schedule {
-    background-color: #f4f4f4;
-    padding: 20px;
-}
-.schedule .inner {
-    margin: 0 auto; 
-}
